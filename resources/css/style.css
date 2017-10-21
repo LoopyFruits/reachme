@@ -1,6 +1,6 @@
 * {
   text-align: center;
-  border: solid 1px rgba(0, 0, 0, 0.5);
+  border: solid 1px rgba(0, 0, 0, 0);
 }
 
 p, li {
@@ -31,8 +31,13 @@ h3 {
   margin-top: 50px;
 }
 
+.content {
+  background-color: #f7f8f9;
+}
+
 body {
-  background-image: url(../images/floral.png);
+  background: url(../images/floral.png) no-repeat center fixed;
+  background-size: cover;
 }
 
 .sMedia {
