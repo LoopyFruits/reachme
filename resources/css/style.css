@@ -37,6 +37,7 @@ a:hover {
   color: #4f5763;
 }
 
-img {
+#logo {
   margin-top: 22px;
+  margin-left: 5px;
 }
