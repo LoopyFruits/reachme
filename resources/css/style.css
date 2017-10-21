@@ -11,7 +11,7 @@ li {
   display: inline;
   list-style: none;
   padding-left: 0px;
-  margin: 0 10px;
+  margin: 0 13px;
 }
 
 h1, h3 {
@@ -23,7 +23,7 @@ h1, h3 {
 
 h1 {
   font-family: 'Oswald', sans-serif;
-  margin: 40px 0 75px 0;
+  margin: 60px 0 75px 0;
 }
 
 h3 {
@@ -32,8 +32,9 @@ h3 {
 }
 
 .sMedia {
-  padding-right: 30px;
+  padding-right: 33px;
 }
+
 a:link, a:visited {
   color: #bec0c4;
   text-decoration: none;
@@ -52,6 +53,7 @@ a:hover {
   margin-bottom: 45px;
 }
 
+/* Here's where things get sexy */
 /* Below are the colors for the links */
 
 a.sc:hover {
