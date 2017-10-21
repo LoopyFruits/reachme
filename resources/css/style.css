@@ -33,6 +33,9 @@ h3 {
 
 .content {
   background-color: #f7f8f9;
+  justify-content: center;
+  width: 1000px;
+  flex-shrink: 3;
 }
 
 body {
