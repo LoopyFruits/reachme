@@ -10,6 +10,7 @@ p, li {
 li {
   display: inline;
   list-style: none;
+  padding-left: 0px;
   margin: 0 10px;
 }
 
@@ -29,6 +30,9 @@ h3 {
   margin-top: 50px;
 }
 
+.sMedia {
+  padding-right: 30px;
+}
 a:link, a:visited {
   color: #bec0c4;
   text-decoration: none;
@@ -45,4 +49,34 @@ a:hover {
 
 #about {
   margin-bottom: 45px;
+}
+
+/* Below are the colors for the links */
+
+a.sc:hover {
+  color: #ff3a00;
+}
+
+a.steam:hover {
+  color: #636363;
+}
+
+a.twitter:hover {
+  color: #00aced;
+}
+
+a.player:hover {
+  color: #8575d7;
+}
+
+a.yt:hover {
+  color: #bb0000;
+}
+
+a.twitch:hover {
+  color: #6441A4;
+}
+
+a.discord:hover {
+  color: #7289da;
 }
