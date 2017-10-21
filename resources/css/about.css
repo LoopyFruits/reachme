@@ -4,10 +4,12 @@
 }
 
 h1 {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 1px;
   text-transform: uppercase;
   background-color: #f7f8f9;
   width: 100%;
-  margin-left: 38px;
+  margin: 50px 0 50px 38px;
 }
 
 p {
@@ -28,4 +30,13 @@ a:hover {
 
 li {
   list-style: none;
+}
+
+a:link, a:visited {
+  color: #bec0c4;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4f5763;
 }

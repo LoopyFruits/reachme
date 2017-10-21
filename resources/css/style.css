@@ -16,6 +16,7 @@ li {
 
 h1, h3 {
   color: #303844;
+  letter-spacing: 1px;
   text-transform: uppercase;
   cursor: default;
 }
