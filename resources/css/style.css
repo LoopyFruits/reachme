@@ -16,11 +16,12 @@ li {
 h1, h3 {
   color: #303844;
   text-transform: uppercase;
+  cursor: default;
 }
 
 h1 {
   font-family: 'Oswald', sans-serif;
-  margin-bottom: 75px;
+  margin: 40px 0 75px 0;
 }
 
 h3 {
@@ -40,4 +41,8 @@ a:hover {
 #logo {
   margin-top: 22px;
   margin-left: 5px;
+}
+
+#about {
+  margin-bottom: 45px;
 }

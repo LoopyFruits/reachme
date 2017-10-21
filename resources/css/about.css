@@ -1,0 +1,25 @@
+* {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+p {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+a:link, a:visited {
+  color: #5990ea;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #4f5763;
+}
+
+li {
+  list-style: none;
+}
