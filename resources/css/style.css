@@ -32,7 +32,7 @@ h3 {
 }
 
 body {
-  background-image: src("./resources/images/floral.jpg");
+  background-image: url("./resources/images/sea.jpg") no-repeat center fixed;
 }
 
 .sMedia {
