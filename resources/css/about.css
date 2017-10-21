@@ -30,10 +30,13 @@ a:hover {
 
 li {
   list-style: none;
-  font-weight: bold;
   letter-spacing: 1px;
   margin-top: 4px;
   font-family: 'Roboto Condensed', sans-serif;
+}
+
+li, span {
+  font-weight: bold;
 }
 
 a:link, a:visited {
