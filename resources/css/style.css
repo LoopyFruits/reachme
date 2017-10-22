@@ -41,6 +41,18 @@ h3 {
   padding: 35px 0;
 }
 
+header {
+  background-color: #f7f8f9;
+  margin: auto;
+  margin-bottom: 40px;
+  border-right: solid 1px #9b9fa3;
+  border-bottom: solid 2px #575c60;
+  width: 1000px;
+  flex-shrink: 3;
+  flex-basis: 1000px;
+  padding: 35px 0;
+}
+
 body {
   background: url(../images/floral.png) no-repeat center fixed;
   background-size: cover;
@@ -60,12 +72,12 @@ a:hover {
 }
 
 #logo {
-  margin-top: 22px;
+  margin-top: 10px;
   margin-left: 5px;
 }
 
 #about {
-  margin-bottom: 45px;
+  margin-bottom: 0px;
 }
 
 /* Here's where things get sexy */
