@@ -49,12 +49,19 @@ header {
   width: 1000px;
   flex-shrink: 3;
   flex-basis: 1000px;
-  padding: 35px 0;
+  padding: 80px 0 35px 0;
 }
 
 body {
   background: url(../images/sunset.png) no-repeat center fixed;
   background-size: cover;
+}
+
+.avatar {
+  z-index: 5;
+  margin: auto;
+  margin-bottom: -120px;
+  width: 1000px;
 }
 
 .sMedia {
@@ -74,6 +81,8 @@ a:hover {
   margin-top: 10px;
   margin-left: 5px;
 }
+
+
 
 #about {
   margin-bottom: 0px;
