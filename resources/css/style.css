@@ -61,6 +61,14 @@ body {
   padding-right: 33px;
 }
 
+/* hiding things because edgy */
+.steam,
+.player,
+.twitch,
+.yt,
+.discord {
+  display: none;
+}
 a:link, a:visited {
   color: #bec0c4;
   text-decoration: none;
