@@ -61,14 +61,7 @@ body {
   padding-right: 33px;
 }
 
-/* hiding things because edgy */
-.steam,
-.player,
-.twitch,
-.yt,
-.discord {
-  display: none;
-}
+
 a:link, a:visited {
   color: #bec0c4;
   text-decoration: none;
@@ -101,10 +94,6 @@ a.steam:hover {
 
 a.twitter:hover {
   color: #00aced;
-}
-
-a.clyp:hover {
-  color: #32C5AE;
 }
 
 a.yt:hover {
